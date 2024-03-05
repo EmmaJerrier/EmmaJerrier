@@ -1,5 +1,6 @@
 # Emma Jerrier
 Software engineering, Web design, Digital Humanities Research
+
 Computer Science & English Major at High Point University
 
 ## Languages:
