@@ -1,7 +1,16 @@
 # Emma Jerrier
-Software engineering, Web design, Digital Humanities Research
 
 Computer Science & English Major at High Point University
+
+## Who Am I?
+- I'm a current Junior at High Point University, set to graduate May 2025
+- I'm passionate about software engineering, web development, and digital humanities
+
+## What Am I Working On?
+- I'm currently learning: PHP
+- I'm currently working on: An HTML/CSS/PHP tip calculator
+- I'm currently focusing on: web development skills and creating a website for Club Lacrosse
+- I am currently researching: Death in Art in American Culture 
 
 ## Proficient Languages & Databases
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
