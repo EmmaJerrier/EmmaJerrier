@@ -8,7 +8,6 @@ Computer Science & English Major at High Point University
 
 ## What Am I Working On?
 - I'm currently learning: AI/ML
-- I'm currently working on: creating a React App for a portfolio website
 - I'm currently focusing on: web development skills and building intelligent agents
 - I am currently researching: Natural Language Processing and the Theory of the Novel
 
